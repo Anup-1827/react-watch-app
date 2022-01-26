@@ -1,0 +1,12 @@
+.TopNav{
+    background-color : black;
+    padding: 12px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.TopNav > img {
+    width: 100px;
+}

@@ -1,0 +1,16 @@
+
+
+.MainContainer{
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 32px;
+    width: 100%;
+}
+.Preview{
+    width: 50%;
+    position: relative;
+}
+
+
+/* ----------------------- */

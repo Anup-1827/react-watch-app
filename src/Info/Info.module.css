@@ -1,0 +1,72 @@
+/* Info About the product*/
+.Info{
+    width: 50%;
+    /* padding-right: 20%; */
+}
+.Title{
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: -20px;
+}
+.Description{
+    padding-right: 10%;
+
+}
+/* ----------------------- */
+
+
+/* Product Option */
+.HeadingStyle{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: cursive;
+    font-weight: 600;
+}
+.ProductOptions{
+    width: 100%;
+}
+
+.OptionProduct{
+    max-width: 80px;
+    border-radius: 8px;
+    /* border: 2px solid teal; */
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.SelectedProduct{
+    border: 2px solid teal;
+}
+/* ----------------------- */
+
+
+/* Features */
+.FeaturesBtn{
+    margin: 0 5px;
+    background-color: gainsboro;
+    border: gainsboro;
+    padding: 8px 25px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.FeaturesBtnText{
+    color: white;
+    background-color: grey;
+}
+/* ----------------------- */
+
+/* Book Btn */
+.BookBtn{
+    margin-top: 20px;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: teal;
+    border: teal;
+    font-size: 15px;
+    color: white;
+}
